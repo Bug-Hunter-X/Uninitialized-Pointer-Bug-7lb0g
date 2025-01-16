@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error involving uninitialized pointers. The `bug.c` file contains code that leads to undefined behavior due to using an uninitialized pointer. The `bugSolution.c` file provides a corrected version of the code, showcasing best practices for pointer usage. 
